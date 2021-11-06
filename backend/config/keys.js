@@ -1,6 +1,6 @@
 module.exports = {
     // Database
-    mongoURI: "",
+    mongoURI: "mongodb+srv://public-rfcs:publicPassword@cluster0.ou7ym.mongodb.net/mernAuth?retryWrites=true&w=majority",
 
     // JWT Secret
     secretOrKey: "secret123",
