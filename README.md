@@ -1,2 +1,2 @@
 # mernAuth
- MERN stack JWT auth system
+MERN stack JWT authentication system with role-based credentials and password recovery features
